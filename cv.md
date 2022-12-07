@@ -76,7 +76,7 @@ November 2017 - up to now | *Ukraine, Kharkiv*
 
 **First officer Let 410** | ***Kharkiv State Aircraft Manufacturing Company***
 
-November 2004 - November 2017 | *Ukraine, Kharkiv
+November 2004 - November 2017 | *Ukraine, Kharkiv*
 
 - Performing flights
 - Conducting flight documentation
@@ -101,3 +101,9 @@ ________________________________________________________________________________
 September 1995 - September 2000 | *Ukraine, Kropivnitsky (Kirovograd)*
 
 ________________________________________________________________________________________________
+
+## Languages:
+
+- Ukrainian - native
+- Russian - native
+- English - B1
